@@ -1,0 +1,24 @@
+Juan Perez, fractura de pierna, C
+Maria Ramirez, apendicitis, A
+Lorenzo Toledo, chikunguya, E
+Carmen Sarmientos, dolores de parto, B
+Roberto Mendoza, gripe, B
+Ana López, quemadura, D
+Carlos Martínez, fractura de brazo, C
+Laura Fernández, gastroenteritis, A
+Diego Castillo, esguince de tobillo, E
+Marta Sánchez, intoxicación alimentaria, B
+Javier Rodríguez, neumonía, D
+Paula Gómez, sinusitis, A
+Andrés Guerrero, fiebre tifoidea, C
+Sonia Vargas, conjuntivitis, E
+Miguel Navarro, deshidratación, B
+Elena Díaz, bronquitis, D
+Raúl Torres, fractura de clavícula, C
+Isabel Jiménez, faringitis, A
+Julio García, insolación, E
+Teresa Ruiz, lumbalgia, B
+Francisco Herrera, otitis, D
+Natalia González, amigdalitis, A
+Oscar López, gastroenteritis, C
+Patricia Martín, conjuntivitis, E
