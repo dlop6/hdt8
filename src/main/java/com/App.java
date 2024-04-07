@@ -19,7 +19,12 @@ public class App {
         System.out.println("1. Implementacion propia de heap (VectorHeap)");
         System.out.println("2. Heap de Java Collections Framework (JCF)");
 
-        
+        FileReader fileReader = new FileReader();
+        List<Paciente> pacientes = fileReader.readFile("src/main/java/com/Txt files/pacientes.txt");
+
+        for (Paciente paciente : pacientes) {
+            heap.add(paciente);
+        }
 
         Scanner scanner = new Scanner(System.in);
         int heapOption = scanner.nextInt();
@@ -30,13 +35,6 @@ public class App {
             heap = new VectorHeapJCF<>();
         } else {
             System.out.println("Opcion no valida");
-        }
-
-        FileReader fileReader = new FileReader();
-        List<Paciente> pacientes = fileReader.readFile("src/main/java/com/Txt files/pacientes.txt");
-
-        for (Paciente paciente : pacientes) {
-            heap.add(paciente);
         }
 
 
